@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     &nbsp;
-    <a href="https://github.com/lynn1286/lynn1286.github.io">
+    <a href="https://lynn1286.github.io/">
       <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
     &nbsp;
