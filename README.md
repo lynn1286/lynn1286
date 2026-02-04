@@ -13,11 +13,11 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     &nbsp;
-    <a href="https://lynn.dev">
+    <a href="https://github.com/lynn1286/lynn1286.github.io">
       <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
     &nbsp;
-    <a href="mailto:lynn@example.com">
+    <a href="mailto:lynn12866@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
@@ -43,36 +43,6 @@
 - **Backend**：NestJS · Node.js · TypeScript 全栈  
 - **正在进阶**：Rust 🦀（系统编程 & 性能敏感场景）  
 - **工具 & 生态**：Git · Prisma · Docker · Linux · VSCode + 很多插件
-
-<br/>
-
-### 🌙 Vibe Coding
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lynn1286/lynn1286@main/assets/vibe-coding-1.jpg" width="65%" alt="vibe coding setup"/>
-  <!-- 如果你更喜欢霓虹风，可以换成： -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/lynn1286/lynn1286@main/assets/neon-vibe.jpg" width="65%" alt="neon vibe coding"/> -->
-  <p><i>深夜 · 降噪耳机 · lo-fi hip hop · 霓虹光 · code flow state</i></p>
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-eight.vercel.app/api?username=lynn1286&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=lynn1286&theme=dracula&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="75%" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lynn1286&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-</div>
-
-<br/>
-
-### 📌 Pinned Projects
-<!-- GitHub 会自动显示你 pin 的仓库 -->
 
 <br/>
 
