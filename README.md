@@ -1,44 +1,48 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+```text
+                ▄▄▄▄·       .▄▄ · 
+                ▐█ ▀█▪▪     ▐█ ▀. 
+                ▐█▀▀█▄ ▄█▀▄ ▄▀▀▀█▄
+                ██▄▪▐█▐█▌.▐▌▐█▄▪▐█
+                ·▀▀▀▀  ▀█▄▀▪ ▀▀▀▀ 
 
-###
+lynn12866 @ GitHub
+───────────────────────────────
+系统:     墨西哥远程开发者 🌮
+内核:     全栈 / AI 爱好者
+运行时间: 从 2018 年开始 coding
+软件包:   JS/TS、Rust...
+Shell:    zsh / bash 忠实用户
+终端:     iTerm2
+CPU:      Ryzen 9 / M2 氛围
+内存:     64GB / 咖啡过量
+───────────────────────────────
+➜  ~ whoami
+    你好！我是 lynn，目前在墨西哥城远程工作。
+    喜欢探索 AI、Web、前端和开源项目。
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-</div>
+➜  ~ neofetch --github
+    GitHub:     github.com/lynn12866
+    关注者:     [关注者徽章]
+    Stars:      [星星徽章]
+    提交数:     2025: XXXX
 
-###
+➜  ~ 技能
+    ● Python        ● JavaScript/TypeScript
+    ● React/Next.js ● Rust（学习中）
+    ● Docker        ● Linux/Unix
+    ● AI/ML 基础
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+➜  ~ 联系方式 --list
+    Twitter/X:   @lynn12866
+    邮箱:        lynn12866@gmail.com
+    网站:        https://lynn1286.github.io/
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+➜  ~ cowsay "继续敲代码！"
+     ________________________
+    < 继续敲代码！ >
+     ------------------------
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
