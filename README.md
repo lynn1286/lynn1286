@@ -1,24 +1,20 @@
-```ansi
-   ┌──────────────────────────────────────────────┐
-   │  lynn12866 @ github                           │
-   └──────────────────────────────────────────────┘
+lynn12866@github ~ $ neofetch
 
-    lynn          Mexico · Remote
-    OS            macOS / Linux vibes
-    Uptime        coding since forever ☕
-    Shell         zsh · tmux
+▌ 系统    墨西哥远程开发者 🌮
+▌ 内核    全栈/AI | Python·JS·Rust
+▌ Shell    zsh + tmux + Surge
+▌ 位置    Mexico City ☕
 
-    全栈 · AI 方向
-    Python · TypeScript · Rust · Docker
+▌ GitHub
+![Followers](https://img.shields.io/github/followers/lynn12866?style=social&color=brightgreen)
+![Stars](https://img.shields.io/github/stars/lynn12866/lynn12866?style=flat-square&color=yellow)
 
-    播客
-     《播客名称》 · 通过 GitHub Actions 自动更新
-     ├─  RSS   https://lynn12866.github.io/podcast/rss.xml
-     └─  网页  https://lynn12866.github.io/podcast/
+▌ 正在搞
+• AI工具链 (Claude·Gemini·Codex)
+• 🎙️ 播客 [你的播客名]
+  RSS: https://lynn12866.github.io/podcast/rss.xml
+  网页: https://lynn12866.github.io/podcast/
+  📱 GitHub Actions 自动部署
 
-    链接
-       github.com/lynn12866
-       @lynn12866
-     ✉️  lynn@example.com
-
-  └──────────────────────────────────────────────┘
+▌ 链接
+💬 @lynn12866 (X)  |  lynn@example.com
